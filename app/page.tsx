@@ -79,8 +79,8 @@ export default function Home() {
           <a href="#pricing">Pricing</a>
         </nav>
         <div className="nav-actions">
-          <a className="text-link" href="#">Sign in</a>
-          <a className="button button-dark button-small" href="mailto:hello@example.com?subject=Construction%20QA%20Pilot">Start a pilot</a>
+          <a className="text-link" href="https://app.constructionqa.app/login">Sign in</a>
+          <a className="button button-dark button-small" href="https://app.constructionqa.app/login">Start a pilot</a>
         </div>
       </header>
 
@@ -92,7 +92,7 @@ export default function Home() {
             Capture issues with photos and voice. Assign them to trades. Verify the fix. Keep the record.
           </p>
           <div className="hero-actions">
-            <a className="button button-dark" href="mailto:hello@example.com?subject=Construction%20QA%20Pilot">Start a pilot <Arrow /></a>
+            <a className="button button-dark" href="https://app.constructionqa.app/login">Start a pilot <Arrow /></a>
             <a className="button button-ghost" href="#how">See how it works</a>
           </div>
           <div className="hero-proof">
@@ -220,7 +220,7 @@ export default function Home() {
               <li>Project QA history & reports</li>
               <li>Direct founder onboarding</li>
             </ul>
-            <a className="button button-dark full" href="mailto:hello@example.com?subject=Construction%20QA%20Founding%20Builder">Start a pilot <Arrow /></a>
+            <a className="button button-dark full" href="https://app.constructionqa.app/login">Start a pilot <Arrow /></a>
             <small>Early pricing can be adjusted before launch.</small>
           </div>
         </div>
@@ -231,7 +231,7 @@ export default function Home() {
           <p className="section-kicker">RUN QUALITY LIKE A SYSTEM</p>
           <h2>Stop chasing construction issues through texts, photos, and memory.</h2>
           <p>Capture it. Assign it. Verify it. Keep the record.</p>
-          <a className="button button-light" href="mailto:hello@example.com?subject=Construction%20QA%20Pilot">Start a pilot <Arrow /></a>
+          <a className="button button-light" href="https://app.constructionqa.app/login">Start a pilot <Arrow /></a>
         </div>
       </section>
 
